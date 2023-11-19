@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "rp2040-zero")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/rp2040-zero.kicad_sym")(options "")(descr ""))
+  (lib (name "tp2264-sr")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/tp2264-sr.kicad_sym")(options "")(descr ""))
+  (lib (name "MSS23D18")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/MSS23D18.kicad_sym")(options "")(descr ""))
+  (lib (name "l78l33_sot89")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/l78l33_sot89.kicad_sym")(options "")(descr ""))
+)
